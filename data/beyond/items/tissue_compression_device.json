@@ -1,0 +1,9 @@
+{
+  "type": "threecore:default",
+  "properties": {
+    "max_stack_size": 1,
+    "max_damage": 0,
+    "group": "technology",
+    "rarity": "rare"
+  }
+}
